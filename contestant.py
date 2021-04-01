@@ -6,4 +6,3 @@ class Contestant:
         self.registration_number = int(registration_number)
 
     def notify(self): pass
-
