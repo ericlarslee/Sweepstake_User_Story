@@ -1,5 +1,9 @@
+from simulation import Simulation
+
+
 def main():
-    print('hello')
+    Simulation()
 
 
+main()
 
